@@ -5,6 +5,12 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    overflow: auto;
+  }
+
+  html, body { 
+    background-color: #00c0b0 !important;
+    overflow: hidden;
   }
 
 
